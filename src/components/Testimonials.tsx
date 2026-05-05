@@ -1,11 +1,12 @@
 import { motion } from 'motion/react';
 
 const testimonials = [
-  { id: 1, image: 'https://i.postimg.cc/vBPK82YY/1.webp' },
-  { id: 3, image: 'https://i.postimg.cc/QC20VRRM/3.webp' },
-  { id: 4, image: 'https://i.postimg.cc/bwTWFw7w/4.webp' },
-  { id: 5, image: 'https://i.postimg.cc/xCbsYf4C/5.webp' },
-  { id: 6, image: 'https://i.postimg.cc/G3xfp2pX/Design-sem-nome-(1)-(1).webp' },
+  { id: 1, image: '/depoimentos/1.png' },
+  { id: 2, image: '/depoimentos/2.png' },
+  { id: 3, image: '/depoimentos/3.png' },
+  { id: 4, image: '/depoimentos/4.png' },
+  { id: 5, image: '/depoimentos/5.png' },
+  { id: 6, image: '/depoimentos/6.png' },
 ];
 
 const carouselItems = [...testimonials, ...testimonials];
