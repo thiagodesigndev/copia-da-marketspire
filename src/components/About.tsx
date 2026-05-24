@@ -24,13 +24,13 @@ export default function About() {
             
             <div className="space-y-6 text-gray-300 text-lg leading-relaxed">
               <p>
-                A <span className="text-primary font-bold">Marketspire</span> nasceu porque Luis Carlos percebeu um problema recorrente: pequenos e médios empresários investiam em sites caros que não apareciam no Google, não carregavam rápido no celular e — pior de tudo — não geravam nenhum resultado real.
+                A <span className="text-primary font-bold">Marketspire</span> nasceu porque o Luis Carlos percebeu uma frustração muito comum no mercado: pequenos e médios empresários investiam valores altos em sites que pareciam bonitos, mas que não apareciam nas buscas do Google, demoravam para carregar no celular e não traziam clientes de verdade.
               </p>
               <p>
-                Nossa abordagem é diferente desde o início. Antes de criar qualquer página, entendemos o seu negócio, seu público e seus objetivos. Só depois colocamos a mão na massa — porque um site sem estratégia é apenas um custo, não um investimento.
+                Por isso, nossa forma de trabalhar é diferente desde o primeiro contato. Antes de criar qualquer página, estudamos o seu negócio, entendemos quem é o seu público e traçamos seus objetivos reais. Só depois começamos a construir, pois sabemos que um site sem estratégia é apenas um custo, e não um investimento.
               </p>
               <p className="text-white font-bold">
-                Cada projeto que entregamos tem o nosso comprometimento total com resultado. Não somos uma fábrica de sites em série. Somos parceiros do seu crescimento.
+                Não atuamos como uma fábrica de sites que entrega tudo em série no piloto automático. Entramos de cabeça em cada projeto com comprometimento total, sendo parceiros reais do crescimento da sua empresa.
               </p>
             </div>
           </motion.div>
