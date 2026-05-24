@@ -57,6 +57,11 @@ const projects = [
     image: "/portfolio/amoreljoias.webp",
     url: "https://amoreljoias.com.br/",
   },
+  {
+    title: "Turismo Vulcânico",
+    image: "/portfolio/turismo-vulcanico.webp",
+    url: "https://turismo-vulcanico.vercel.app/",
+  },
 ];
 
 export default function Portfolio() {
