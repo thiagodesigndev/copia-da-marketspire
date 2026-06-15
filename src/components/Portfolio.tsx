@@ -3,6 +3,11 @@ import { Sparkles, ExternalLink, MessageCircle } from "lucide-react";
 
 const projects = [
   {
+    title: "Órion Clínica",
+    image: "/portfolio/orion-clinica.webp",
+    url: "https://orion-clinica.netlify.app/",
+  },
+  {
     title: "Dra Larissa Tavares",
     image: "/portfolio/dralarissa.webp",
     url: "https://sitedralarissa.vercel.app/",
