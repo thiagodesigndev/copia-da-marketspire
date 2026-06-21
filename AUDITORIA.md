@@ -40,7 +40,7 @@ Todas as 8 fases de intervenção de segurança, LGPD, Acessibilidade, Performan
 *(Nota Técnica: Realizar via CI/CD, porém não houve adições de modulações extras no pack.json que não fossem as confiáveis, o Tailwind v4 e React 19 correm na last version estável).*
 
 ## 9. Pendências do Cliente (Ação Requerida do Dono do Software)
-- [ ] Atualizar arquivos com o número do WhatsApp definitivo se houver troca da empresa para um novo (atual `+5543996550891`).
+- [x] Atualizar arquivos com o número do WhatsApp definitivo se houver troca da empresa para um novo (atual `+5543999044974`).
 - [ ] Fornecer os Assets físicos que agora as referências apontam: Fazer UPLOAD manual ou injetar no /public arquivos de imagem `og-image.jpg` e `favicon.png`, além de `apple-touch-icon.png`.
 - [ ] Atrelar e validar o CNAME na Vercel para o seu painel de domínios `marketspire.com.br` (via Registro.br) garantindo a emissão do certificado Let's Encrypt padrão.
 - [ ] Incluir de fato como env secret a chave no painel UI das Settings da Cloud Vercel. Variável: `RESEND_API_KEY`.

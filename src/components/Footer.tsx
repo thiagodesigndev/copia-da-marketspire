@@ -22,7 +22,7 @@ export default function Footer() {
               <a href="https://www.instagram.com/marketspireoficial/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center hover:bg-primary transition-all group">
                 <Instagram size={20} className="group-hover:scale-110 transition-transform" />
               </a>
-              <a href="https://wa.me/5543996550891" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center hover:bg-[#228A09] transition-all group">
+              <a href="https://wa.me/5543999044974" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center hover:bg-[#228A09] transition-all group">
                 <img 
                   src="https://cdn-icons-png.flaticon.com/128/1384/1384023.png" 
                   alt="WhatsApp" 
@@ -47,11 +47,11 @@ export default function Footer() {
                   className="w-[18px] h-[18px] object-contain brightness-0 invert opacity-70" 
                   referrerPolicy="no-referrer" 
                 />
-                <span>(43) 9 9655-0891</span>
+                <span>(43) 9 9904-4974</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-primary" />
-                <span>(43) 9 9655-0891</span>
+                <span>(43) 9 9904-4974</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-primary" />

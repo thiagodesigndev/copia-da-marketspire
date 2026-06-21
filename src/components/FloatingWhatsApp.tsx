@@ -6,7 +6,7 @@ export default function FloatingWhatsApp() {
       initial={{ scale: 0, opacity: 0 }}
       animate={{ scale: 1, opacity: 1 }}
       transition={{ delay: 1, type: "spring" }}
-      href="https://wa.me/5543996550891?text=Quero%20um%20site%20que%20vende%20por%20mim!"
+      href="https://wa.me/5543999044974?text=Quero%20um%20site%20que%20vende%20por%20mim!"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 bg-[#25d366] hover:bg-[#20b858] text-white p-4 rounded-full shadow-[0_4px_12px_rgba(37,211,102,0.4)] transition-all hover:scale-110 flex items-center justify-center group"

@@ -86,7 +86,7 @@ export default function Header({ onNavigate }: HeaderProps) {
             )
           )}
           <a
-            href="https://wa.me/5543996550891?text=Quero%20meu%20site!"
+            href="https://wa.me/5543999044974?text=Quero%20meu%20site!"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#228A09] hover:bg-[#1a6a07] text-white px-4 py-2 rounded-full text-sm font-medium transition-all"

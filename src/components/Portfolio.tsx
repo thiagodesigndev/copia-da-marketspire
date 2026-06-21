@@ -131,7 +131,7 @@ export default function Portfolio() {
             viewport={{ once: true }}
           >
             <a
-              href="https://wa.me/5543996550891"
+              href="https://wa.me/5543999044974"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-[#228A09] hover:bg-[#1a6a07] text-white px-8 py-4 rounded-full font-bold text-lg transition-all transform hover:scale-105 shadow-lg shadow-green-900/20"

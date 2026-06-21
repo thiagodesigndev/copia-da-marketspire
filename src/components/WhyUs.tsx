@@ -77,7 +77,7 @@ export default function WhyUs() {
             viewport={{ once: true }}
           >
             <a
-              href="https://wa.me/5543996550891"
+              href="https://wa.me/5543999044974"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-[#228A09] hover:bg-[#1a6a07] text-white px-10 py-5 rounded-full font-bold text-lg transition-all transform hover:scale-105 shadow-xl shadow-green-900/40"

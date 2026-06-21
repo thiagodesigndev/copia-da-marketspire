@@ -101,7 +101,7 @@ export default function BlogPost({ post, onBack, onHome }: BlogPostProps) {
             Pronto para elevar seu nível digital?
           </h3>
           <a
-                        href="https://wa.me/5543996550891?text=Quero%20um%20site%20que%20vende%20por%20mim!"
+                        href="https://wa.me/5543999044974?text=Quero%20um%20site%20que%20vende%20por%20mim!"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-[#228A09] hover:bg-[#1a6a07] text-white px-10 py-5 rounded-full font-bold text-xl transition-all transform hover:scale-105 shadow-xl shadow-green-900/20 uppercase tracking-wide"
